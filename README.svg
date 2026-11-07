@@ -1,0 +1,73 @@
+<!-- https://github.com/DenverCoder1/readme-typing-svg/ -->
+<svg xmlns='http://www.w3.org/2000/svg'
+    xmlns:xlink='http://www.w3.org/1999/xlink'
+    viewBox='0 0 420 110'
+    style='background-color: #00000000;'
+    width='420px' height='110px'>
+
+    <style>
+    @font-face {
+        font-family: 'Zircular';
+        font-style: normal;
+        font-weight: 400;
+        src: url('./zircular.woff2');
+    }
+    </style>
+
+                    <path id='path0'>
+                            <!-- Multiline -->
+                                <animate id='d0' attributeName='d' begin='0s'
+                    dur='1100ms' fill="freeze"
+                    values='m0,25 h0 ; m0,25 h0 ; m0,25 h420 ; m0,25 h420' keyTimes='0;0;0.90909090909091;1' />
+                    </path>
+    <text font-family='"Zircular", monospace' fill='#36BCF7' font-size='20'
+        dominant-baseline='auto'
+        x='0%' text-anchor='start'
+        letter-spacing='normal'>
+        <textPath xlink:href='#path0'>
+            Zircular is a font built from
+        </textPath>
+    </text>
+        <path id='path1'>
+                            <!-- Multiline -->
+                                <animate id='d1' attributeName='d' begin='0s'
+                    dur='2200ms' fill="freeze"
+                    values='m0,50 h0 ; m0,50 h0 ; m0,50 h420 ; m0,50 h420' keyTimes='0;0.5;0.95454545454545;1' />
+                    </path>
+    <text font-family='"Zircular", monospace' fill='#36BCF7' font-size='20'
+        dominant-baseline='auto'
+        x='0%' text-anchor='start'
+        letter-spacing='normal'>
+        <textPath xlink:href='#path1'>
+            captivatingly simple SVG paths,
+        </textPath>
+    </text>
+        <path id='path2'>
+                            <!-- Multiline -->
+                                <animate id='d2' attributeName='d' begin='0s'
+                    dur='3300ms' fill="freeze"
+                    values='m0,75 h0 ; m0,75 h0 ; m0,75 h420 ; m0,75 h420' keyTimes='0;0.66666666666667;0.96969696969697;1' />
+                    </path>
+    <text font-family='"Zircular", monospace' fill='#36BCF7' font-size='20'
+        dominant-baseline='auto'
+        x='0%' text-anchor='start'
+        letter-spacing='normal'>
+        <textPath xlink:href='#path2'>
+            each one designed by hand using
+        </textPath>
+    </text>
+        <path id='path3'>
+                            <!-- Multiline -->
+                                <animate id='d3' attributeName='d' begin='0s'
+                    dur='4400ms' fill="freeze"
+                    values='m0,100 h0 ; m0,100 h0 ; m0,100 h420 ; m0,100 h420' keyTimes='0;0.75;0.97727272727273;1' />
+                    </path>
+    <text font-family='"Zircular", monospace' fill='#36BCF7' font-size='20'
+        dominant-baseline='auto'
+        x='0%' text-anchor='start'
+        letter-spacing='normal'>
+        <textPath xlink:href='#path3'>
+            only lines and circular arcs.
+        </textPath>
+    </text>
+</svg>
