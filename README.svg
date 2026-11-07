@@ -10,7 +10,7 @@
         font-family: 'Zircular';
         font-style: normal;
         font-weight: 400;
-        src: url('./zircular.woff2');
+        src: url('https://raw.githubusercontent.com/Tims777/zircular/refs/heads/main/zircular.woff2');
     }
     </style>
 
